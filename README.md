@@ -12,3 +12,8 @@
   <a href="https://es.linkedin.com/in/amgacedo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="margin-bottom: 5px;" /></a> 
 </h6>
+
+<details>
+<summary><h6>📵 Contacts</h6></summary>
+  <h6>ask me where yo address located @ sassimessy.dnmx.org </h6>
+</details>
