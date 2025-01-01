@@ -15,5 +15,5 @@
 
 <details>
 <summary><h6>📵 Contacts</h6></summary>
-  <h6>ask me where yo address located @ sassimessy.dnmx.org </h6>
+  <h6>ask me where yo address located @ sassymessi.dnmx.org </h6>
 </details>
