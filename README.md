@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/8ORUZ7/8ORUZ7/refs/heads/images/the_police.svg" alt="The Police" width="35%">
+  <img src="https://raw.githubusercontent.com/8ORUZ7/8ORUZ7/refs/heads/images/the_police.svg" alt="The Police" width="38%">
 
   <details>    
     <summary>
