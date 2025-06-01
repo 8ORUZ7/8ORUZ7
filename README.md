@@ -7,7 +7,7 @@
 
 <div align="center">
 
- [![gists-readme](https://gists-readme.yizack.com/api/pin?user=&id=8264738d99e4406fa91084f83e7da6fc&owner=true&theme=dark)](https://gist.github.com/8ORUZ7/8264738d99e4406fa91084f83e7da6fc?short_path=9a2c773)
+ [![gists-readme](https://gists-readme.yizack.com/api/pin?user=&id=8264738d99e4406fa91084f83e7da6fc&owner=true&theme=dark)](https://gist.github.com/8ORUZ7/8264738d99e4406fa91084f83e7da6fc)
 
 </div>
 
