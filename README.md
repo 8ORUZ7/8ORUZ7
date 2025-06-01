@@ -6,8 +6,10 @@
 </p>-->
 
 <div align="center">
+<img src="https://cdn.catcatnya.com/custom_emojis/images/000/196/845/original/7508fdf05f4279ec.gif" alt="Blob Cat Eyes" width="10%">
+<h6><img src="https://cdn.catcatnya.com/custom_emojis/images/000/073/976/original/40cdaab96dbafda3.png" alt="Blob Cat Eyes" width="3%"> am asking for credits donation not procrushtination</h6> 
 
- [![gists-readme](https://gists-readme.yizack.com/api/pin?user=&id=8264738d99e4406fa91084f83e7da6fc&owner=true&theme=dark)](https://gist.github.com/8ORUZ7/8264738d99e4406fa91084f83e7da6fc)
+ [![gists-readme](https://gists-readme.yizack.com/api?user=8ORUZ7&title=Click+Me%21&n=1&theme=dark)](https://rb.gy/jliq6a)
 
 </div>
 
